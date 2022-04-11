@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-image: url('https://images-platform.99static.com//0fAB_UZSU0HdvPPJChpEkf8owAE=/234x143:1824x1733/fit-in/500x500/99designs-contests-attachments/99/99813/attachment_99813697');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.logo img{
+    height: 50px;
+    width: 100px;
+}
+.navbar{
+    background-color: rgb(100, 97, 97);
+    color: white;
+    /* padding: 10px 20px; */
+}
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-evenly; */
+}
+.navbar ul  li{
+    list-style: none;
+    font-family: sans-serif;
+    margin: 20px;
+    /* margin-top: 10px; */
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.btn button{
+    padding: 20px 50px;
+    border-radius: 30px;
+    background-color: orange;
+    cursor: pointer;
+    font-weight: bolder;
+    color: white;
+}
+.button{
+    
+}
